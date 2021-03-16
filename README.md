@@ -22,7 +22,7 @@ This project requires to create an asynchronous web app that uses Web API and us
 - The project has cors and body-parser packages 
 - Project gets the weather data from the OpenWeatherMap API (GET ROUTE 1)
 - The API and user data saved to the app API endpoint (projectData) (POST ROUTE)
-- The UI updated dynamically by fetches the stored data (GET ROUTE 2)
+- The UI updates dynamically by fetching the stored data (GET ROUTE 2)
 
 ## How_To_Use
 1. First, you have to enter the zip code of the city
