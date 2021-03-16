@@ -23,6 +23,7 @@ This project requires to create an asynchronous web app that uses Web API and us
 - Project gets the weather data from the OpenWeatherMap API (GET ROUTE 1)
 - The API and user data saved to the app API endpoint (projectData) (POST ROUTE)
 - The UI updates dynamically by fetching the stored data (GET ROUTE 2)
+- All features are usable across modern desktop, tablet, and phone browsers
 
 ## How_To_Use
 1. First, you have to enter the zip code of the city
